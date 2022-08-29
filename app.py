@@ -19,7 +19,7 @@ from sympy import inv_quick
 from flask_cors import CORS
 
 # MONGODB_URI =  "mongodb+srv://jira:Deepika@cluster0.g4ll0.mongodb.net/?retryWrites=true&w=majority"
-MONGODB_URI="mongodb+srv://demo:demo123@jira.zrnz9.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URI="mongodb+srv://jira:jira@cluster0.k0pwhyd.mongodb.net/?retryWrites=true&w=majority"
 # initiate flask
 app = Flask(__name__)
 CORS(app)
